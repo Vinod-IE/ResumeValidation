@@ -1,0 +1,30 @@
+Flask
+Flask-cors
+flask-jwt-extended==4.6.0
+python-dotenv
+pdfplumber
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-groq
+langchain-qdrant
+tiktoken
+pyodbc
+markdown2
+PyPDF2==3.0.1
+openai
+qdrant-client
+scikit-learn
+fastembed
+sentence-transformers
+azure-storage-blob==12.24.0
+spacy
+nltk
+python-docx
+pytesseract
+langchain-huggingface
+#pip install openpyxl
+pip install streamlit pdfplumber python-docx langchain langchain_groq langchain_qdrant sentence-transformers pydantic groq qdrant-client python-dotenv
+
+
+# pip install --quiet -U langchain langchain_openai langgraph langchainhub langchain_experimental langchain_community
